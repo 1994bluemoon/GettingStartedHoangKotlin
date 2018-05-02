@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.util.Log
 import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
+import vinova.henry.com.gettingstarted.R.id.bt_count
+import vinova.henry.com.gettingstarted.R.id.tv_count
 
 class MainActivity : AppCompatActivity(), View.OnClickListener, View.OnLongClickListener {
 
